@@ -16,7 +16,6 @@ namespace XEx06Reservation
         {
             rdoBedSize.SelectedIndex = 0;
             txtArrivalDate.Text = currentDate;
-            System.Diagnostics.Debug.WriteLine(currentDate);
             lblYear.Text = currentYear;
 
         }
